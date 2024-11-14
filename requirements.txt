@@ -1,0 +1,3 @@
+# Generated 2024-11-14 12:08:01.030643
+toga-android~=0.4.7
+pyftpdlib
